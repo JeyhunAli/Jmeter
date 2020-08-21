@@ -1,2 +1,4 @@
 
 this is the new file its all about jmeter
+jmeter is open source its available in zip and binary file just need to download it 
+it performance testing tool
