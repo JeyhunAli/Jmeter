@@ -8,3 +8,40 @@ go to the cmd line --->> go to the jmeter bin directory
 ---->>> then
  sh jmeter.sh run this command 
 then you will see UI of the jmeter
+
+
+
+
+<<<<< Connection Time----->> time to connect to servver from client
+
+Jmeter 
+Connection is happening with the help of TCP id protocol 
+Transfer connection protocol 
+Once we send the request within some millisecond its happening and its call 
+Connection time 
+
+Response time how fast or late we get respond from the server 
+
+Throughput this means 
+Per second or per hour sending number of the request 
+
+Scenario is basically like a scenario 
+Its like a use cases business flow 
+Fir example lets say in Uber application there sales day 
+And they sending email to people that you discount days on ordering Uber 
+What people do just go application set the destination order Uber and go 
+This scenario and business flow 
+
+Bottleneck this means in the written code maybe some poor design code 
+Or something else the response is not happening or its stuck on the server and it's degrading the response of the server 
+
+Capacity is basically capacity of something of application of the server 
+And number of the data processing until the performance of application is degraded 
+
+Concurrency this means lets say 
+Number of user in the same time buying movie tickets for the same slot and same movie 
+Basically simultaneously or virtually number of users exactly for the same point 
+
+Key performance indicators 
+KPI this basically means 
+The main target of the application performance especially in the production level 
